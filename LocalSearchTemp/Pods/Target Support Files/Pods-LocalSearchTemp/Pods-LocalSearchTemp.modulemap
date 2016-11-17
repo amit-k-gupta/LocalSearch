@@ -1,0 +1,6 @@
+framework module Pods_LocalSearchTemp {
+  umbrella header "Pods-LocalSearchTemp-umbrella.h"
+
+  export *
+  module * { export * }
+}
